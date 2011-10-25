@@ -33,7 +33,7 @@ global $wpdb;
 			<form method="post">
 			<table class="widefat">
 				<tr valign="top">
-					<td align="left">Place here the famous quotes or whatever text you. One quote per line. HTML tags are allowed.<br />
+					<td align="left">Place here the famous quotes or whatever text you want. One quote per line. HTML tags are allowed.<br />
 					<textarea name="<?php echo WP_QUOTE; ?>" wrap="off" style="margin:0;height:30em;width:100%;"><?php
 					$wp_quote_array = get_option ( WP_QUOTE );
 					echo trim ( stripslashes ( htmlspecialchars ( implode ( "\n", $wp_quote_array ) ) ) );

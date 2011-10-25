@@ -21,7 +21,7 @@ The WP Quote plugin (developed by [CyberSEO.net](http://www.cyberseo.net/ "Cyber
 
 == Installation ==
 
-1. Upload 'wp-quote.php' to the '/wp-content/plugins/' directory
+1. Upload 'wp-quote' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
