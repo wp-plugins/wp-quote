@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Quote
-Version: 1.0
+Version: 1.1
 Author: CyberSEO.NET
 Author URI: http://www.cyberseo.net/
 Plugin URI: http://www.cyberseo.net/wp-quote/
