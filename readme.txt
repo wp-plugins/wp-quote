@@ -5,7 +5,7 @@ Author: CyberSEO
 Author URI: http://www.cyberseo.net/
 Tags: random, quotes, random quote, random text 
 Requires at least: 2.0.0
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 4.3
 
 Adds random quotes from famous people or whatever text you want to every post and page of your blog. HTML tags are allowed.
@@ -35,6 +35,9 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 1. User interface.
 
 == Changelog ==
+
+= 1.2 =
+* Fully compatible with WordPress 4.1.1
 
 = 1.1 =
 * Fully compatible with WordPress 4.1
